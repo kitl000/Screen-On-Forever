@@ -1,4 +1,4 @@
-# floating-widget
+# Android-App-Screen-On
 
 The application was created with the goal of bypassing the phone screen timeout function. I wanted an app that can allow me to play music on Youtube while i'm cooking without the need of tapping my phone every few minutes. There were some app with this feature in Play Store like Stay Alive! but requires premium version and can be quite reliable.
 
